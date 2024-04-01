@@ -1,17 +1,15 @@
-Textrefiner
-
+# Textrefiner
 A tool for analyzing text data in Django backend
 
-It is a simple django website in which we can Analyze text.
+It is a simple django  website in which we can Analyze text.
 
-What Can We do from Textrefiner ?
-1)Remove Punctuations
-2)UPPERCASE
-3)New Line Remove
-4)Extra Spaces Remover
+<h1>What Can We do from Textrefiner ?</h1>
+1)Remove Punctuations<br>
+2)UPPERCASE<br>
+3)New Line Remove<br>
+4)Extra Spaces Remover<br>
 5)Numbers Remover
 
-
-Requirments
-python3
-django
+<h1>Requirments</h1>
+python3<br>
+django<br>
